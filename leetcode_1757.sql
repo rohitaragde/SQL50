@@ -1,7 +1,9 @@
 --------------------- leetcode 1757 ----------------------------------------
 -------------- Recyclable and Low Fat products ---------------------------------
 
-able: Products
+**Question:-**
+
+Table: Products
 
 +-------------+---------+
 | Column Name | Type    |
@@ -44,6 +46,8 @@ Output:
 +-------------+
 Explanation: Only products 1 and 3 are both low fat and recyclable.
 use rohit;
+
+**Solution:-**
 
 create table Products001
 (product_id int primary key,
