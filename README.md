@@ -20,4 +20,11 @@
  08) Managers with atleast 5 Direct Reports
  09) Confirmation Rate
 
+ ## Part -III :- Basic Aggregate Functions
+ 01) Not Boring Movies
+ 02) Average Selling Price
+ 03) Project Employees I
+ 04) Percentage of Users Attended a Contest
+ 05) Queries Quality Percentage
+
   
