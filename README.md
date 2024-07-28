@@ -26,5 +26,10 @@
  03) Project Employees I
  04) Percentage of Users Attended a Contest
  05) Queries Quality Percentage
+ 06) Monthly Transactions I
+ 07) Immediate Food Delivery II
+ 08) Game Play Analysis IV
+
+  
 
   
