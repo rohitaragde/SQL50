@@ -30,6 +30,17 @@
  07) Immediate Food Delivery II
  08) Game Play Analysis IV
 
+ ## Part -IV :- Sorting and Grouping
+ 01) Number of Unique Subjects Taught by Each Teacher
+ 02) User Activity for the Past 30 Days I
+ 03) Product Sales Analysis III
+ 04) Classes More than 5 Students
+ 05) Find Followers Count
+ 06) Biggest Single Number
+ 07) Customers Who Bought All Products
+
+   
+
   
 
   
