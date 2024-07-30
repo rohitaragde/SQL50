@@ -13,4 +13,3 @@ In case you have some changes at remote to avoid conflicts follow the below step
 2) git add . :- Add all the files from the repository
 3) git commit -m "Resolved merge conflicts":- Commit the local changes
 4) git push origin master:- Push all the local changes to Github
-
