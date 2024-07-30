@@ -39,6 +39,18 @@
  06) Biggest Single Number
  07) Customers Who Bought All Products
 
+
+ ## Part -V :- Advanced Select and Joins
+ 01) The Number of Employees Which Report to Each Employee
+ 02) Primary Department for Each Employee
+ 03) Triangle Judgement
+ 04) Consecutive Numbers
+ 05) Product price At a Given Date
+ 06) Last Person to Fit in the Bus
+ 07) Count Salary Categories
+
+  
+
    
 
   
