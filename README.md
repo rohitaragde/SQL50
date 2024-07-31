@@ -49,6 +49,14 @@
  06) Last Person to Fit in the Bus
  07) Count Salary Categories
 
+## Part -VI :- Subqueries
+01) Employees Whose Manager Left the Company
+02) Exchange Seats
+03) Movie Rating
+04) Restaurant Growth
+05) Investments in 2016
+06) Department Top Three Salaries
+
   
 
    
