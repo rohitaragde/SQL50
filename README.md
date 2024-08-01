@@ -57,6 +57,15 @@
 05) Investments in 2016
 06) Department Top Three Salaries
 
+## Part -VII :- Advanced String Functions/Regex/Clause
+01) Fix Names in a Table
+02) Patients With a Condition
+03) Delete Duplicate Emails
+04) Second Highest Salary
+05) Group Sold Products By the Date
+06) List the Products Ordered in a Period
+07) Find Users with Valid E-Mails
+
   
 
    
