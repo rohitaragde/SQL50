@@ -5,10 +5,13 @@ create table EmpSal11
 (id int primary key,
  salary int);
 
-
+ --- TestCase I----
 insert into EmpSal11 values(1,100);
 insert into EmpSal11 values(2,200);
 insert into EmpSal11 values(3,300);
+
+--- TestCase II-----
+insert into EmpSal11 values(1,100);
 
 select * from EmpSal11;
 
