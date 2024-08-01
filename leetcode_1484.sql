@@ -2,7 +2,6 @@
 
 ---------------------------- Group Sold Products By The Date------------------
 use rohit;
-
 create table Activities11
 (sell_date date,
  product varchar(10));
