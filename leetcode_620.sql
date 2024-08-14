@@ -72,5 +72,5 @@ create table Cinema111
 Return the result table ordered by rating in descending order.*/
 
 select * from Cinema111
-where id%2=1 and description<>'boring'
+where id%2!=0 and description<>'boring'
 order by rating desc;
