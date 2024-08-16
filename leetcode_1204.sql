@@ -78,7 +78,7 @@ insert into Queues values(2,'Marie',200,4);
 select * from Queues;
 
 
-SELECT  q1.person_name
+SELECT top 1 q1.person_name
 FROM Queues q1 JOIN Queues q2
 ON q1.turn >= q2.turn
 GROUP BY q1.person_name
