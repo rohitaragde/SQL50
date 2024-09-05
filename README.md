@@ -17,17 +17,18 @@
  06) Problem No 11: Leetcode_577.sql
  07) Problem No 12: Leetcode_1280.sql
  08) Problem No 13: Leetcode_570.sql
+ 09) Problem No 14: Leetcode_1934.sql
 
   ## Part -III :- Basic Aggregate Functions
- 01) Problem No 14: Leetcode_1934.sql
- 02) Problem No 15: Leetcode_620.sql
- 03) Problem No 16: Leetcode_1251.sql
- 04) Problem No 17: Leetcode_1075.sql
- 05) Problem No 18: Leetcode_1633.sql
- 06) Problem No 19: Leetcode_1211.sql
- 07) Problem No 20: Leetcode_1193.sql
- 08) Problem No 21: Leetcode_1174.sql
- 09) Problem No 22: Leetcode_550.sql
+
+ 021) Problem No 15: Leetcode_620.sql
+ 02) Problem No 16: Leetcode_1251.sql
+ 03) Problem No 17: Leetcode_1075.sql
+ 04) Problem No 18: Leetcode_1633.sql
+ 05) Problem No 19: Leetcode_1211.sql
+ 06) Problem No 20: Leetcode_1193.sql
+ 07) Problem No 21: Leetcode_1174.sql
+ 08) Problem No 22: Leetcode_550.sql
 
  ## Part -IV :- Sorting and Grouping
  01) Problem No 23: Leetcode_2356.sql
@@ -55,16 +56,16 @@
 04) Problem No 40: Leetcode_1321.sql
 05) Problem No 41: Leetcode_602.sql
 06) Problem No 42: Leetcode_585.sql
+07)  Problem No 43: Leetcode_185.sql
 
 ## Part -VII :- Advanced String Functions/Regex/Clause
-01) Problem No 43: Leetcode_185.sql
-02) Problem No 44: Leetcode_1667.sql
-03)Problem No 45: Leetcode_1527.sql
-04) Problem No 46: Leetcode_196.sql
-05) Problem No 47: Leetcode_176.sql
-06) Problem No 48: Leetcode_1484.sql
-07) Problem No 49: Leetcode_1327.sql
-08) Problem No 50: Leetcode_1517.sql
+01) Problem No 44: Leetcode_1667.sql
+02)Problem No 45: Leetcode_1527.sql
+03) Problem No 46: Leetcode_196.sql
+04) Problem No 47: Leetcode_176.sql
+05) Problem No 48: Leetcode_1484.sql
+06) Problem No 49: Leetcode_1327.sql
+07) Problem No 50: Leetcode_1517.sql
 
   
 
