@@ -2,69 +2,69 @@
 ## Solving 50 Leetcode SQL Problems 
 
 ## Part -I :- Basic Select
-01) Leetcode 1757:- Recyclable and Low Fat Products
-02) Leetcode 584:- Find Customer Referee
-03) Leetcode 595:- Big Counties
-04) Leetcode 1148:- Article Views I
-05) Leetcode 1683:- Invalid Tweets
-
+01) Problem No 01: Leetcode_1757.sql
+02) Problem No 02: Leetcode_584.sql
+03) Problem No 03: Leetcode_595.sql
+04) Problem No 04: Leetcode_1148.sql
+05) Problem No 05: Leetcode_1683.sql
 
  ## Part -II :- Basic Joins
- 01) Replace EmployeeID with The Unique Identifier
- 02) Product Sales Analysis I
- 03) Customer Who Visited but Did Not Make Any Transactions
- 04) Rising Temprature
- 05) Average Time of Process per Machine
- 06) Employee Bonus
- 07) Students and Examinations
- 08) Managers with atleast 5 Direct Reports
- 09) Confirmation Rate
+ 01) Problem No 06: Leetcode_1378.sql
+ 02) Problem No 07 : Leetcode_1068.sql
+ 03) Problem No 08: Leetcode_1581.sql
+ 04) Problem No 09: Leetcode_197.sql
+ 05) Problem No 10: Leetcode_1661.sql
+ 06) Problem No 11: Leetcode_577.sql
+ 07) Problem No 12: Leetcode_1280.sql
+ 08) Problem No 13: Leetcode_570.sql
 
- ## Part -III :- Basic Aggregate Functions
- 01) Not Boring Movies
- 02) Average Selling Price
- 03) Project Employees I
- 04) Percentage of Users Attended a Contest
- 05) Queries Quality Percentage
- 06) Monthly Transactions I
- 07) Immediate Food Delivery II
- 08) Game Play Analysis IV
+  ## Part -III :- Basic Aggregate Functions
+ 01) Problem No 14: Leetcode_1934.sql
+ 02) Problem No 15: Leetcode_620.sql
+ 03) Problem No 16: Leetcode_1251.sql
+ 04) Problem No 17: Leetcode_1075.sql
+ 05) Problem No 18: Leetcode_1633.sql
+ 06) Problem No 19: Leetcode_1211.sql
+ 07) Problem No 20: Leetcode_1193.sql
+ 08) Problem No 21: Leetcode_1174.sql
+ 09) Problem No 22: Leetcode_550.sql
 
  ## Part -IV :- Sorting and Grouping
- 01) Number of Unique Subjects Taught by Each Teacher
- 02) User Activity for the Past 30 Days I
- 03) Product Sales Analysis III
- 04) Classes More than 5 Students
- 05) Find Followers Count
- 06) Biggest Single Number
- 07) Customers Who Bought All Products
+ 01) Problem No 23: Leetcode_2356.sql
+ 02) Problem No 24: Leetcode_1141.sql
+ 03) Problem No 25: Leetcode_1070.sql
+ 04) Problem No 26: Leetcode_596.sql
+ 05) Problem No 27: Leetcode_1729.sql
+ 06) Problem No 28: Leetcode_619.sql
+ 07) Problem No 29: Leetcode_1045.sql
 
 
  ## Part -V :- Advanced Select and Joins
- 01) The Number of Employees Which Report to Each Employee
- 02) Primary Department for Each Employee
- 03) Triangle Judgement
- 04) Consecutive Numbers
- 05) Product price At a Given Date
- 06) Last Person to Fit in the Bus
- 07) Count Salary Categories
+ 01) Problem No 30: Leetcode_1731.sql
+ 02) Problem No 31: Leetcode_1789.sql
+ 03) Problem No 32: leetcode_610.sql
+ 04) Problem No 33: Leetcode_180.sql
+ 05) Problem No 34: Leetcode_1164.sql
+ 06) Problem No 35: Leetcode_1204.sql
+ 07) Problem No 36: Leetcode_1907.sql
 
 ## Part -VI :- Subqueries
-01) Employees Whose Manager Left the Company
-02) Exchange Seats
-03) Movie Rating
-04) Restaurant Growth
-05) Investments in 2016
-06) Department Top Three Salaries
+01) Problem No 37: Leetcode_1978.sql
+02) Problem No 38: Leetcode_626.sql
+03) Problem No 39: Leetcode_1341.sql
+04) Problem No 40: Leetcode_1321.sql
+05) Problem No 41: Leetcode_602.sql
+06) Problem No 42: Leetcode_585.sql
 
 ## Part -VII :- Advanced String Functions/Regex/Clause
-01) Fix Names in a Table
-02) Patients With a Condition
-03) Delete Duplicate Emails
-04) Second Highest Salary
-05) Group Sold Products By the Date
-06) List the Products Ordered in a Period
-07) Find Users with Valid E-Mails
+01) Problem No 43: Leetcode_185.sql
+02) Problem No 44: Leetcode_1667.sql
+03)Problem No 45: Leetcode_1527.sql
+04) Problem No 46: Leetcode_196.sql
+05) Problem No 47: Leetcode_176.sql
+06) Problem No 48: Leetcode_1484.sql
+07) Problem No 49: Leetcode_1327.sql
+08) Problem No 50: Leetcode_1517.sql
 
   
 
