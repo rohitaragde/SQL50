@@ -60,7 +60,7 @@
 
 ## Part -VII :- Advanced String Functions/Regex/Clause
 01) Problem No 44: Leetcode_1667.sql
-02)Problem No 45: Leetcode_1527.sql
+02) Problem No 45: Leetcode_1527.sql
 03) Problem No 46: Leetcode_196.sql
 04) Problem No 47: Leetcode_176.sql
 05) Problem No 48: Leetcode_1484.sql
